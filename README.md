@@ -1,7 +1,7 @@
 <h1 align="center">Abdullah Elsayed Houseny</h1>
 
 <p align="center">
-  <b>Odoo &amp; Python Backend Developer</b> &nbsp;·&nbsp; AI Engineering &nbsp;·&nbsp; Egypt 🇪🇬
+  <b>Odoo &amp; Python Backend Developer</b> &nbsp;·&nbsp; AI Engineering
 </p>
 
 <p align="center">
@@ -9,10 +9,10 @@
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
   </a>
   <a href="https://wa.me/201093437637">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    <img src="https://img.shields.io/badge/WhatsApp%20EG-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Egypt" />
   </a>
-  <a href="https://github.com/Abdullah-Elsayed?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+  <a href="https://wa.me/966535739362">
+    <img src="https://img.shields.io/badge/WhatsApp%20KSA-128C7E?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Saudi Arabia" />
   </a>
 </p>
 
@@ -64,22 +64,24 @@ and environment management
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
-### Projects
+### What I'm building
 
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [rs_password_reset](https://github.com/Abdullah-Elsayed/rs_password_reset) | Odoo module enforcing password strength policy, with an admin reset wizard and a custom controller | Odoo, Python, QWeb |
-| [short-url](https://github.com/Abdullah-Elsayed/short-url) | URL shortener web app | Django, Python |
-
-### Currently
-
-Building an Odoo employee-evaluation module with a pluggable KPI engine, and FastAPI
-services for streaming LLM workloads.
+- **Employee evaluation system for Odoo** — a core module plus bridge modules for Sales,
+  Purchase, Accounting, Helpdesk, Project and Appraisal, driven by a pluggable KPI engine
+  with custom scoring sources, an approval workflow and role-based security
+- **FastAPI services for LLM workloads** — token streaming over SSE, shared client
+  lifecycle via the lifespan pattern, semaphore-based concurrency control and typed
+  configuration
+- [**rs_password_reset**](https://github.com/Abdullah-Elsayed/rs_password_reset) — Odoo
+  module enforcing a password strength policy, with an admin reset wizard and a custom
+  controller
 
 ---
 
 <p align="center">
   📫 <a href="mailto:abdullahelsaayed@outlook.com">abdullahelsaayed@outlook.com</a>
   &nbsp;·&nbsp;
-  💬 <a href="https://wa.me/201093437637">WhatsApp</a>
+  💬 <a href="https://wa.me/201093437637">+20 109 343 7637</a>
+  &nbsp;·&nbsp;
+  💬 <a href="https://wa.me/966535739362">+966 53 573 9362</a>
 </p>
