@@ -1,16 +1,16 @@
-## Hi there 👋
+## Abdullah Elsayed Houseny
 
-<!--
-**Abdullah-Elsayed/Abdullah-Elsayed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer based in Egypt. I build ERP modules and Python services.
 
-Here are some ideas to get you started:
+**What I work on**
+- **Odoo development** — custom modules, advanced ORM, QWeb reports, record rules & ACLs, performance tuning
+- **Python backend** — FastAPI, async patterns, Django
+- **AI/LLM services** — streaming APIs (SSE), RAG pipelines, LLM gateways
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech**
+`Python` `Odoo 15/16` `FastAPI` `Django` `PostgreSQL` `Docker` `pydantic`
+
+**Selected work**
+- [rs_password_reset](https://github.com/Abdullah-Elsayed/rs_password_reset) — Odoo 15 password strength validator module
+
+📫 abdullahhouseny@gmail.com
