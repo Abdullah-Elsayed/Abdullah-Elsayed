@@ -1,29 +1,80 @@
-## Abdullah Elsayed Houseny
+<h1 align="center">Abdullah Elsayed Houseny</h1>
 
-Backend developer based in Egypt. I build ERP modules, Python services, and AI-powered APIs.
+<p align="center">
+  <b>Odoo &amp; Python Backend Developer</b> &nbsp;·&nbsp; AI Engineering &nbsp;·&nbsp; Egypt 🇪🇬
+</p>
 
-### What I work on
+<p align="center">
+  <a href="mailto:abdullahelsaayed@outlook.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Abdullah-Elsayed?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+  </a>
+</p>
 
-- **Odoo development (v11 → v19)** — custom modules, advanced ORM, computed fields & constraints, QWeb reports, record rules & ACLs, controllers, performance tuning, migrations
-- **AI engineering** — LLM serving layers, streaming APIs (SSE), RAG pipelines, LLM gateways
-- **Python backend** — FastAPI (async, lifespan, typed config), Django
-- **Infrastructure** — Docker, Linux, deployment & server administration
+---
 
-### Tech
+### About
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Odoo](https://img.shields.io/badge/Odoo%2011--19-714B67?style=flat&logo=odoo&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+I design and build business systems end to end: ERP modules that run real company
+operations, backend APIs that serve them, and AI services layered on top. Most of my
+work lives in **Odoo** (v11 through v19) and **Python**, deployed on **Linux** with
+**Docker**.
 
-### Selected work
+### What I do
 
-- [rs_password_reset](https://github.com/Abdullah-Elsayed/rs_password_reset) — Odoo password strength validator module
-- [short-url](https://github.com/Abdullah-Elsayed/short-url) — URL shortener built with Django
+**🟣 Odoo development (v11 → v19)**
 
-### Contact
+Custom modules and full business workflows · advanced ORM, computed fields, constraints
+and inheritance · QWeb reports and Owl/JS frontend · security with ACLs and record rules
+· HTTP controllers · performance tuning · version migrations · automated tests
 
-📫 [abdullahelsaayed@outlook.com](mailto:abdullahelsaayed@outlook.com)
+**🤖 AI engineering**
+
+LLM serving layers and gateways · token streaming over SSE · RAG pipelines · concurrency
+control and backpressure · observability and cost control for LLM traffic
+
+**⚡ Python backend**
+
+FastAPI — async patterns, lifespan-managed resources, typed settings with
+`pydantic-settings`, dependency injection · Django · REST API design · PostgreSQL
+
+**🐳 Infrastructure**
+
+Docker and Compose · Linux server administration · deployment pipelines · Nginx · backups
+and environment management
+
+### Tech stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Odoo%2011--19-714B67?style=flat-square&logo=odoo&logoColor=white" alt="Odoo" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/XML-005FAD?style=flat-square&logo=xml&logoColor=white" alt="XML" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+
+### Projects
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [rs_password_reset](https://github.com/Abdullah-Elsayed/rs_password_reset) | Odoo module enforcing password strength policy, with an admin reset wizard and a custom controller | Odoo, Python, QWeb |
+| [short-url](https://github.com/Abdullah-Elsayed/short-url) | URL shortener web app | Django, Python |
+
+### Currently
+
+Building an Odoo employee-evaluation module with a pluggable KPI engine, and FastAPI
+services for streaming LLM workloads.
+
+---
+
+<p align="center">
+  📫 <a href="mailto:abdullahelsaayed@outlook.com">abdullahelsaayed@outlook.com</a>
+</p>
