@@ -8,7 +8,7 @@
   <a href="mailto:abdullahelsaayed@outlook.com">
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
   </a>
-  <a href="https://wa.me/966535739362">
+  <a href="https://wa.me/201093437637">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   <a href="https://github.com/Abdullah-Elsayed?tab=repositories">
@@ -81,5 +81,5 @@ services for streaming LLM workloads.
 <p align="center">
   📫 <a href="mailto:abdullahelsaayed@outlook.com">abdullahelsaayed@outlook.com</a>
   &nbsp;·&nbsp;
-  💬 <a href="https://wa.me/966535739362">WhatsApp</a>
+  💬 <a href="https://wa.me/201093437637">WhatsApp</a>
 </p>
